@@ -2,6 +2,7 @@ import pandas as pd
 import spacy
 import time
 import csv
+import pickle
 from spacy.matcher import PhraseMatcher
 
 # LOADING SKILLS IN MATCHER
