@@ -1,0 +1,4 @@
+mustHaveSkills-2.csv filter=lfs diff=lfs merge=lfs -text
+naukri_skill_full filter=lfs diff=lfs merge=lfs -text
+nlp_model filter=lfs diff=lfs merge=lfs -text
+duyet_word2vec_skill.bin filter=lfs diff=lfs merge=lfs -text
