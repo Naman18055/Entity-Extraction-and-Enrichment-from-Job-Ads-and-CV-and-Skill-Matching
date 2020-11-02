@@ -10,3 +10,4 @@
 4) duyet_data_train_w2v - Trained model saved in a file.
 5) duyet_word2vec_skill.bin - Trained model saved in word2vec format.
 6) skill2vec.py - Python file used to read related CSV files and train the model.
+7) compare_skills.py - Run this file to check similarity between the skills and print most similar skills related to some skill.
